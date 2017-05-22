@@ -1,0 +1,6 @@
+C:\Users\jrp\OneDrive\Repositories\algorithms-sorting\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\jrp\OneDrive\Repositories\algorithms-sorting\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\jrp\OneDrive\Repositories\algorithms-sorting\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\jrp\OneDrive\Repositories\algorithms-sorting\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\jrp\OneDrive\Repositories\algorithms-sorting\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\jrp\OneDrive\Repositories\algorithms-sorting\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
